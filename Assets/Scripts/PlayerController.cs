@@ -6,13 +6,17 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Transform cameraTransform;
     [SerializeField] private bool faceMoveDirection;
     [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float runSpeed = 8f;
     [SerializeField] private float jumpForce = 5f;
+    [SerializeField] private float attackCooldown = 0.6f;
 
     private Animator animator;
 
     private Rigidbody rb;
     private Vector2 moveInput;
     private bool isGrounded;
+    private bool isRunning;
+    private float nextAttackTime;
     void Awake()
     {
         rb = GetComponent<Rigidbody>();
@@ -38,6 +42,18 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    public void Run(InputAction.CallbackContext context)
+    {
+        isRunning = context.performed;
+    }
+
+    public void Attack(InputAction.CallbackContext context)
+    {
+        if (!context.performed || Time.time < nextAttackTime) return;
+
+        nextAttackTime = Time.time + attackCooldown;
+        animator.SetTrigger("Attack");
+    }
     void FixedUpdate()
     {
         Vector3 forward = cameraTransform.forward;
@@ -50,6 +66,8 @@ public class PlayerController : MonoBehaviour
         right.Normalize();
 
         Vector3 movement = forward * moveInput.y + right * moveInput.x;
+        
+        float speed = isRunning ? runSpeed : moveSpeed;
 
         Vector3 velocity = rb.linearVelocity;
 
@@ -83,5 +101,6 @@ public class PlayerController : MonoBehaviour
         float currentSpeed = new Vector3(moveInput.x, 0f, moveInput.y).magnitude;
 
         animator.SetFloat("Speed", currentSpeed);
+        animator.SetBool("Run", isRunning && currentSpeed > 0f);
     }
 }

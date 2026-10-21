@@ -5,63 +5,587 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="272e55e5-48f1-46bc-a3fa-51a1d54a09f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Readme.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Readme.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_Renderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_Renderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/PC_Renderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/PC_Renderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Icons.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/URP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/URP.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/MultiplayerManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Git repository test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Git repository test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character Controller.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character Controller.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle01-Idle02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle01-Idle02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle02-Idle01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle02-Idle01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Fall01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Fall01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 - Begin.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 - Begin.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 - Land.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 - Land.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM] - Begin.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM] - Begin.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM] - Land.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM] - Land.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01 [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Jump/HumanF@Jump01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Backward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Backward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_BackwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_BackwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_BackwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_BackwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Forward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Forward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_ForwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_ForwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_ForwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_ForwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Left.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Left.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Right.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/HumanF@Run01_Right.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Backward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Backward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_BackwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_BackwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_BackwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_BackwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Forward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Forward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_ForwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_ForwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_ForwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_ForwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Left [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Left [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Right [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Run/RootMotion/HumanF@Run01_Right [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Forward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Forward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_ForwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_ForwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_ForwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_ForwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Left.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Left.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Right.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/HumanF@Sprint01_Right.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Forward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Forward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_ForwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_ForwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_ForwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_ForwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Left [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Left [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Right [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Sprint/RootMotion/HumanF@Sprint01_Right [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Left [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Left [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Left.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Left.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Right [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Right [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Right.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Turn/HumanF@Turn01_Right.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Backward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Backward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_BackwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_BackwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_BackwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_BackwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Forward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Forward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_ForwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_ForwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_ForwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_ForwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Left.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Left.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Right.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/HumanF@Walk01_Right.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Backward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Backward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_BackwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_BackwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_BackwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_BackwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Forward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Forward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_ForwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_ForwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_ForwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_ForwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Left [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Left [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Right [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Movement/Walk/RootMotion/HumanF@Walk01_Right [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Social.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Social/Conversation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Social/Conversation/HumanF@Talk01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Female/Social/Conversation/HumanF@Talk01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/HumanBasicMotionsFREE_BlenderFiles.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/HumanBasicMotionsFREE_BlenderFiles.zip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle01-Idle02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle01-Idle02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle02-Idle01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle02-Idle01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Fall01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Fall01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 - Begin.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 - Begin.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 - Land.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 - Land.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM] - Begin.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM] - Begin.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM] - Land.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM] - Land.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Backward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Backward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_BackwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_BackwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_BackwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_BackwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Forward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Forward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_ForwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_ForwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_ForwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_ForwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Left.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Left.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Right.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Right.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Backward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Backward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_BackwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_BackwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_BackwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_BackwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Forward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Forward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_ForwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_ForwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_ForwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_ForwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Left [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Left [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Right [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/HumanM@Run01_Right [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Forward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Forward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_ForwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_ForwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_ForwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_ForwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Left.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Left.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Right.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Right.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Forward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Forward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_ForwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_ForwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_ForwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_ForwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Left [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Left [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Right [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Right [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Right [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Right [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Right.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Right.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Backward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Backward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_BackwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_BackwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_BackwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_BackwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Forward.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Forward.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_ForwardLeft.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_ForwardLeft.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_ForwardRight.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_ForwardRight.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Left.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Left.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Right.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Right.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Backward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Backward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_BackwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_BackwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_BackwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_BackwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Forward [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Forward [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardLeft [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardLeft [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardRight [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardRight [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Left [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Left [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Right [RM].fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Right [RM].fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Social.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/HumanM@Talk01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/HumanM@Talk01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/Human@HandsClosed01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/Human@HandsClosed01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/Human@ObjectGripHands01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Animations/Masked Poses/Human@ObjectGripHands01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Human Basic Motions 2.4 FREE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Human Basic Motions 2.4 FREE.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Arms.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Arms/Human Arm Left Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Arms/Human Arm Left Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Arms/Human Arm Right Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Arms/Human Arm Right Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Arms/Human Arms Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Arms/Human Arms Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Hands.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Hands/Human Hand Left Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Hands/Human Hand Left Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Hands/Human Hand Right Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Hands/Human Hand Right Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Hands/Human Hands Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Hands/Human Hands Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Human Body Full Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Human Body Full Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Human Body Upper Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Human Body Upper Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Human Head Mask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Human Head Mask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/HumanF_Model.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/HumanF_Model.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/HumanM_Model.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Models/HumanM_Model.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Scripts/SpineProxy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Scripts/SpineProxy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Scripts/UpperBodyAnimations-SpineProxy.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Scripts/UpperBodyAnimations-SpineProxy.url.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/AnimatorControllers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/AnimatorControllers/HumanBasicMotionsScene.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/AnimatorControllers/HumanBasicMotionsScene.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Human Basic Motions FREE - Unity Demo Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Human Basic Motions FREE - Unity Demo Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneBackground.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneBackground.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneBase.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneBase.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneBaseSides.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneBaseSides.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneChair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneChair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneDummy.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Materials/HumanBasicMotions_SceneDummy.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Models/HumanBasicMotions_SceneBase.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Models/HumanBasicMotions_SceneBase.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Prefabs/Human_BasicMotionsDummy_F.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Prefabs/Human_BasicMotionsDummy_F.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Prefabs/Human_BasicMotionsDummy_M.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Prefabs/Human_BasicMotionsDummy_M.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Script.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Script/HumanBasicMotionsDemo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Script/HumanBasicMotionsDemo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Shaders/HumanBasicMotionsScene.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Shaders/HumanBasicMotionsScene.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Textures/HumanBasicFloor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Textures/HumanBasicFloor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Textures/HumanBasicMotions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Textures/HumanBasicMotions.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Textures/HumanBasicMotionsShadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/Textures/HumanBasicMotionsShadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Brown Wood.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Brown Wood.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Colorsheets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Colorsheets/Colorsheet Wood Brown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Colorsheets/Colorsheet Wood Brown.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Colorsheets/Colorsheet Wood Red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Colorsheets/Colorsheet Wood Red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Colorsheets/Colorsheet Wood Yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Colorsheets/Colorsheet Wood Yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Occlusion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Occlusion/Occlusion Wood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Occlusion/Occlusion Wood.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Red Wood.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Red Wood.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Yellow Wood.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Materials/Yellow Wood.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type1 01.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type1 01.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type1 02.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type1 02.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type1 Door.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type1 Door.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type2 01.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type2 01.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type2 02.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type2 02.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type2 03.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type2 03.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type2 Door.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type2 Door.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type3 01.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type3 01.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type3 02.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type3 02.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type3 Door.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type3 Door.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type4 Big.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type4 Big.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type4 Small.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type4 Small.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type5 Big.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type5 Big.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type5 Small.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type5 Small.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type6 Big.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type6 Big.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type6 Small.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Models/Fence Type6 Small.dae.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Animated.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Animated/Fence Type1 Door.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Animated/Fence Type1 Door.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Animated/Fence Type2 Door.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Animated/Fence Type2 Door.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Animated/Fence Type3 Door.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Animated/Fence Type3 Door.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type1 01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type1 01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type1 02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type1 02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type2 01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type2 01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type2 02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type2 02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type2 03.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type2 03.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type3 01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type3 01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type3 02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type3 02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type4 Big.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type4 Big.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type4 Small.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type4 Small.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type5 Big.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type5 Big.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type5 Small.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type5 Small.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type6 Big.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type6 Big.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type6 Small.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Prefabs/Fence Type6 Small.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scenes/All Fences Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scenes/All Fences Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scenes/Animated Doors Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scenes/Animated Doors Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scenes/Animated Doors ExampleSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scenes/Animated Doors ExampleSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scripts/DoorController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scripts/DoorController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scripts/DoorToggle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyFencePack/Scripts/DoorToggle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Materials/Wood_bright.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Materials/Wood_bright.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Materials/Wood_dark.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Materials/Wood_dark.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_04.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_05.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_05.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_06.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_06.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_07.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_07.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_08.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_08.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_09.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_09.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_10.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_10.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_11.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_11.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_12.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_12.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_13.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_13.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_14.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_14.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_15.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lowpoly_Crates/Meshes/Crate_15.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obsatcle 2.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obsatcle 2.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obstacle2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obstacle2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obstacles.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obstacles.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PLayerInput.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PLayerInput.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Camera Move.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Camera Move.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Cube.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Cube.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Obsatcle 2.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Obsatcle 2.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Obsatcle 3.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Obsatcle 3.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Obstacle 4.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Obstacle 4.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Obstacle4.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Obstacle4.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ObstacleSide2.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ObstacleSide2.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ObstacleSide3.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ObstacleSide3.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ObstacleUp.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ObstacleUp.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ObstaclesSide.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ObstaclesSide.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Base Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Base Mesh/Trashbin.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Base Mesh/Trashbin.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene/BG.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene/BG.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene/BGMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene/BGMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene/Showcase.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene/Showcase.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene/ShowcaseSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Demo Scene/ShowcaseSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinBlue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinBlue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinBlue_basecolor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinBlue_basecolor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinGreen.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinGreen.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinGreen_basecolor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinGreen_basecolor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinRed.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinRed.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinRed_basecolor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinRed_basecolor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinYellow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinYellow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinYellow_basecolor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/TrashbinYellow_basecolor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/Trashbin_metallic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/Trashbin_metallic.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/Trashbin_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/Trashbin_normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/Trashbin_roughness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Materials/Trashbin_roughness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs/TrashbinBlue.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs/TrashbinBlue.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs/TrashbinGreen.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs/TrashbinGreen.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs/TrashbinRed.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs/TrashbinRed.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs/TrashbinYellow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpaceZeta_PlasticTrashBins/Prefabs/TrashbinYellow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Animator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Animator/Animator Controller.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Animator/Animator Controller.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Demo/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Demo/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Brown.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Brown.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Yellow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Yellow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Models/Peasant Nolant(Free Version).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Models/Peasant Nolant(Free Version).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Blue(Free Version).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Blue(Free Version).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Brown(Free Version).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Brown(Free Version).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Green(Free Version).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Green(Free Version).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Yellow(Free Version).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Yellow(Free Version).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/README.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Brown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Brown.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +689,8 @@
       <workItem from="1790843219223" duration="724000" />
       <workItem from="1791446959455" duration="710000" />
       <workItem from="1791641669411" duration="165000" />
+      <workItem from="1792053020846" duration="755000" />
+      <workItem from="1792611893692" duration="1589000" />
     </task>
     <servers />
   </component>
