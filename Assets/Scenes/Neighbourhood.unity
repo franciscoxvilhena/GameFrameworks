@@ -852,8 +852,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 279756202}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.15212335, y: -0.000000011616267, z: 0.000000004039018, w: 0.98836154}
-  m_LocalPosition: {x: -45.52, y: 2.103529, z: 95.83142}
+  m_LocalRotation: {x: 0.20361258, y: 0.016536443, z: -0.0034395827, w: 0.97890586}
+  m_LocalPosition: {x: -45.674873, y: 2.5937455, z: 96.01732}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -873,7 +873,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineOrbitalFollow
   TargetOffset: {x: 0, y: 0, z: 0}
   TrackerSettings:
-    BindingMode: 4
+    BindingMode: 1
     PositionDamping: {x: 1, y: 1, z: 1}
     AngularDampingMode: 0
     RotationDamping: {x: 1, y: 1, z: 1}
@@ -893,7 +893,7 @@ MonoBehaviour:
     SplineCurvature: 0.5
   RecenteringTarget: 2
   HorizontalAxis:
-    Value: 0
+    Value: -10.94
     Center: 0
     Range: {x: -180, y: 180}
     Wrap: 1
@@ -903,7 +903,7 @@ MonoBehaviour:
       Time: 2
     Restrictions: 0
   VerticalAxis:
-    Value: 17.5
+    Value: 23.5
     Center: 17.5
     Range: {x: -10, y: 45}
     Wrap: 0
@@ -4355,7 +4355,7 @@ MonoBehaviour:
   moveSpeed: 5
   runSpeed: 8
   jumpForce: 5
-  attackCooldown: 0.6
+  attackCooldown: 1
 --- !u!114 &1445331103
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4916,8 +4916,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1612855109}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.15212335, y: -0.000000011261381, z: 0.000000001733292, w: 0.98836154}
-  m_LocalPosition: {x: -45.52, y: 2.103529, z: 95.83142}
+  m_LocalRotation: {x: 0.2036126, y: 0.016536446, z: -0.0034395831, w: 0.97890586}
+  m_LocalPosition: {x: -45.674873, y: 2.5937455, z: 96.01732}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
